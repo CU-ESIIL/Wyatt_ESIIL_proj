@@ -1,6 +1,6 @@
 # Home
 This is a template.
-## Working Group Title
+## Wyatt Million ESIIL Postdoc Project
 
 Leveraging dissolved oxygen in coral ecology
 
