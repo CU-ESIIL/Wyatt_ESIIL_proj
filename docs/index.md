@@ -2,9 +2,9 @@
 This is a template.
 ## Working Group Title
 
-Working Group Title
+Leveraging dissolved oxygen in coral ecology
 
-This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
+This project's objectives are to synthesize disparate in situ dissolved oxygen datasets with historical coral bleaching, reef health, and species distributions datasets to identify features of reef oxygen dynmaics that can help predict species occurances and bleaching events on tropical coral reefs. 
 
 As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
 
@@ -129,7 +129,7 @@ Related landmark: WG-A People and roles.
 --8<-- "_generated/slot_notes/group-photo.md"
 
 | Name | Role | Institution | Responsibilities |
-| --- | --- | --- | --- |
+| Wyatt Million | Project Lead | CU Boulder |  |
 | Name | Role | Institution | Responsibilities |
 | Name | Role | Institution | Responsibilities |
 
