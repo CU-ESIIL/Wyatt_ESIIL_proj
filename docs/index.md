@@ -1,15 +1,14 @@
-# Home
-This is a template.
-## Wyatt Million ESIIL Postdoc Project
+# Wyatt Million | ESIIL Postdoctoral Researcher
 
+##  ESIIL Project
 Leveraging dissolved oxygen in coral ecology
 
 This project's objectives are to synthesize disparate in situ dissolved oxygen datasets with historical coral bleaching, reef health, and species distributions datasets to identify features of reef oxygen dynmaics that can help predict species occurances and bleaching events on tropical coral reefs. 
 
-As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
+[Scripts](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/scripts){ .md-button .md-button--secondary }
+[Data](https://github.com/CU-ESIIL/Wyatt_ESIIL_proj/tree/main/Data){ .md-button }
 
-[Scripts](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
-[Data](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
+[Publications](https://scholar.google.com.au/citations?user=bo0xOwQAAAAJ&hl=en&oi=ao){ .md-button .md-button--secondary }
 
 ![Heron Island Reef Flat](assets/images/nice_coral_photo.jpg)
 
@@ -19,13 +18,9 @@ As the working group progresses, the repository becomes the reproducible record 
 
 Dissolved oxygen concentration on coral reefs is dependent on biological and physical components resulting in high variability throughout days, seasons, and decades. Shallow water reefs, like those on the Heron Island reef flat, are susecptible to dramatic dips in dissolved oxygen given the small water volume, low water flow, high temperatures, and large oxygen demand of the organisms that inhabit it. 
 
-## Start Here
-
-1. Replace the title and summary with the working group question, the community or scientific need, and the main outputs the group expects to produce.
-2. Add or link the datasets, working documents, and references your group will use.
-3. Run or adapt at least one analysis workflow and record decisions in the repository.
-4. Commit figures, tables, notes, and summaries so the work is versioned and reproducible.
-5. Use the website to share progress, methods, and results with collaborators and community audiences.
+## Background
+Tropical coral reefs around the world are threatened by a combination of intensifying anthropogenic factors, which have triggered drastic declines in reef-building coral abundance and diversity through mass bleaching (i.e., the loss of photosynthetic symbionts from the coral host animal) and habitat degradation. Increasing temperature has been considered the primary driver of coral declines, but a growing body of evidence suggests low oxygen (O2) availability, alone and in combination with increased temperature, can trigger mortality. Similarly, reduced O2 degrades habitat quality by limiting coral energy production, favoring macroalgal-dominated communities, and limiting recruitment of offspring.
+Decreases in O2 availability, i.e., deoxygenation, are expected to intensify with climate change8, prompting recent efforts to classify aquatic deoxygenation as the next planetary boundary. Despite this, environmental stress on natural reefs is most commonly quantified with tools based on temperature alone, e.g., Degree Heating Weeks (DHW) for cumulative heat stress and Maximum Monthly Mean (MMM) for historical thermal conditions. Therefore, this project will develop standardized metrics of reef oxygen dynamics, test their power to predict bleaching events, and explore how oxygen environments shape coral ecology and symbiosis. This characterization of reef O2 dynamics and low O2 stress will be vital for reef restoration practitioners, environmental policy makers, and stakeholders to establish historical baselines, track ongoing stress events, and predict outcomes of intensifying deoxygenation as climates change.
 
 [Plan the work](work-plan.md){ .md-button }
 [Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
