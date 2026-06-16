@@ -8,16 +8,16 @@ This project's objectives are to synthesize disparate in situ dissolved oxygen d
 
 As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
 
-[Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
-[Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
+[Scripts](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
+[Data](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
 ![Heron Island Reef Flat](assets/images/nice_coral_photo.jpg)
 
 --8<-- "_generated/slot_notes/hero.md"
 
-## Working Group Abstract
+## Heron Island - Great Barrier Reef
 
-Add an overview of who your group is, why you have come together and what questions you are answering. This is very similar to your working group description on the esiil website.
+Dissolved oxygen concentration on coral reefs is dependent on biological and physical components resulting in high variability throughout days, seasons, and decades. Shallow water reefs, like those on the Heron Island reef flat, are susecptible to dramatic dips in dissolved oxygen given the small water volume, low water flow, high temperatures, and large oxygen demand of the organisms that inhabit it. 
 
 ## Start Here
 
