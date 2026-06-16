@@ -1,7 +1,2 @@
-> This image gives the Working Group homepage a shared visual identity for environmental data science.
->
-> [Replace this image in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/tree/main/docs/assets/images/slots/hero)
->
-> To update: delete the current image in this folder and upload one new image. Keep it clean, uncluttered, and concept-driven rather than photo-real.
->
-> Delete this note after the site is customized.
+#Heron Island - Great Barrier Reef
+Dissolved oxygen concentration on coral reefs is dependent on biological and physical components resulting in high variability throughout days, seasons, and decades. Shallow water reefs, like those on the Heron Island reef flat, are susecptible to dramatic dips in dissolved oxygen given the small water volume, low water flow, high temperatures, and large oxygen demand of the organisms that inhabit it.
