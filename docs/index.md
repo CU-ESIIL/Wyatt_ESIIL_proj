@@ -6,9 +6,7 @@ Leveraging dissolved oxygen in coral ecology
 This project's objectives are to synthesize disparate in situ dissolved oxygen datasets with historical coral bleaching, reef health, and species distributions datasets to identify features of reef oxygen dynmaics that can help predict species occurances and bleaching events on tropical coral reefs. 
 
 [Scripts](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/scripts){ .md-button .md-button--secondary }
-[Data](https://github.com/CU-ESIIL/Wyatt_ESIIL_proj/tree/main/Data){ .md-button }
-
-[Publications](https://scholar.google.com.au/citations?user=bo0xOwQAAAAJ&hl=en&oi=ao){ .md-button .md-button--secondary }
+[Data](https://github.com/CU-ESIIL/Wyatt_ESIIL_proj/tree/main/Data){ .md-button }[Publications](https://scholar.google.com.au/citations?user=bo0xOwQAAAAJ&hl=en&oi=ao){ .md-button .md-button--secondary }
 
 ![Heron Island Reef Flat](assets/images/nice_coral_photo.jpg)
 
