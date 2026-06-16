@@ -10,7 +10,7 @@ This project's objectives are to synthesize disparate in situ dissolved oxygen d
 
 ![Heron Island Reef Flat](assets/images/nice_coral_photo.jpg)
 
---8<-- "_generated/slot_notes/hero.md"
+--8<-- "https://github.com/CU-ESIIL/Wyatt_ESIIL_proj/blob/main/docs/_generated/slot_notes/hero.md"
 
 ## Background
 Tropical coral reefs around the world are threatened by a combination of intensifying anthropogenic factors, which have triggered drastic declines in reef-building coral abundance and diversity through mass bleaching (i.e., the loss of photosynthetic symbionts from the coral host animal) and habitat degradation. Increasing temperature has been considered the primary driver of coral declines, but a growing body of evidence suggests low oxygen (O2) availability, alone and in combination with increased temperature, can trigger mortality. Similarly, reduced O2 degrades habitat quality by limiting coral energy production, favoring macroalgal-dominated communities, and limiting recruitment of offspring.
